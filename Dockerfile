@@ -1,4 +1,3 @@
 # Comment
-RUN mkdir test
-RUN cd test
+RUN echo 'this is a test'
 
